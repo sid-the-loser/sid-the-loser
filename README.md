@@ -1,5 +1,7 @@
 # ❤️Welcome to my profile!❤️
 
+I'm SidTheLoser🎀
+
 How ya doin?
 
 I'm doing just *fine*!

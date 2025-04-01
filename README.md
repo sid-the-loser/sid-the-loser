@@ -1,6 +1,6 @@
-# ❤️Welcome to my profile!❤️
+# :heart: Welcome to my profile! :heart:
 
-I'm SidTheLoser🎀
+I'm SidTheLoser :ribbon:
 
 How ya doin?
 

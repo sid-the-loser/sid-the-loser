@@ -1,11 +1,5 @@
-# :heart: Welcome to my profile! :heart:
+# SidTheLoser's Profile
 
-I'm SidTheLoser :ribbon:
+Hello and welcome to my small GitHub profile. I like making some commandline tools, small games and software that can help people with their needs.
 
-How ya doin?
-
-I'm doing just *fine*!
-
-Check out my repositories if ya feel like it... I don't have anything else to say...
-
-**BYEEEEE!**
+Check out my works at: https://work.sidtheloser.dev
